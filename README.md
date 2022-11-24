@@ -2,7 +2,7 @@
 
 ## Overview
 
-###         With our main [data](https://github.com/Ctblossey/Pewlett-Hackard-Analysis/tree/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data) tables, our mission is to extract key information about the employees. Such analysis can be those retiring and those eligible to participate in a mentorship program.
+### With our main [data](https://github.com/Ctblossey/Pewlett-Hackard-Analysis/tree/main/Analysis%20Projects%20Folder/Pewlett-Hackard-Analysis%20Folder/Data) tables, our mission is to extract key information about the employees. Such analysis can be those retiring and those eligible to participate in a mentorship program.
 
 ## Results
 
@@ -16,4 +16,4 @@
 
 ## Summary
 
-###         With our main data source we were able to create [data](https://github.com/Ctblossey/Pewlett-Hackard-Analysis/tree/main/Data) exports to show mentorship eligibilty, retirement titles, retiring titles, and unique titles. Our main takeaway is that 72,458 people are retiring and there are 1,549 eligible mentors. This is possible, however, it depends on the effort needed since each mentor will be responsible for around 40-50 employees. There are two additional queries that may help with determining if it is possible. First, a query showing aligning the mentors with the count of employees in their old roles. Second, a query containing information on how many of the current employees would actually desire a mentor. This information can allow the mentorship to be much more feasible. 
+### With our main data source we were able to create [data](https://github.com/Ctblossey/Pewlett-Hackard-Analysis/tree/main/Data) exports to show mentorship eligibilty, retirement titles, retiring titles, and unique titles. Our main takeaway is that 72,458 people are retiring and there are 1,549 eligible mentors. This is possible, however, it depends on the effort needed since each mentor will be responsible for around 40-50 employees. There are two additional queries that may help with determining if it is possible. First, a query aligning the mentors with the count of employees in their old roles. This would show how well the mentors could be distributed to their respected areas. Second, a query containing information on how many of the current employees would have desired a mentor when they first joined. This can potentially bring down the expected number of employees needing a mentor. With these additional queries, the company can make a better decision on whether or not the  mentorship program will be feasible. 
